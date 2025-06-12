@@ -33,3 +33,16 @@
 ```bash
 git clone https://github.com/seu-usuario/literalura.git
 cd literalura
+```
+
+2. **Compile o projeto com Maven**:
+
+```bash
+./mvnw clean install
+```
+3. **Execute a aplicação**
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+
+

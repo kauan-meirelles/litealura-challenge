@@ -41,8 +41,8 @@ cd literalura
 ./mvnw clean install
 ```
 3. **Execute a aplicação**
-   ```bash
-   ./mvnw spring-boot:run
-   ```
+```bash
+./mvnw spring-boot:run
+```
 
 
